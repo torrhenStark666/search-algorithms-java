@@ -271,7 +271,7 @@ public class Tela extends javax.swing.JFrame {
         botaoGulosa = new javax.swing.JRadioButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Trabalho LFA");
+        setTitle("Fundamentos de Sistemas Inteligentes - Trabalho 1");
 
         jPanelMenu.setBorder(new javax.swing.border.LineBorder(new java.awt.Color(0, 0, 0), 4, true));
 
